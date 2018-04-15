@@ -1,4 +1,4 @@
-# Alastair Edmonds
+## Alastair Edmonds
 
 [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interest) | [LinkedIn](https://www.linkedin.com/in/alastairedmonds/) | [Blog](https://medium.com/@alastair3D)
 
@@ -12,7 +12,7 @@ My ambition now is to forge a career in software design & engineering.  I am loo
 
 
 
-# Projects
+## Projects
 
 For a complete list, see my [GitHub Profile](https://github.com/Alastair3D)
 
@@ -23,9 +23,9 @@ For a complete list, see my [GitHub Profile](https://github.com/Alastair3D)
 
 
 
-# Skills
+## Skills
 
-## Excellent communicator
+### Excellent communicator
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -33,7 +33,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-## Growth mindset
+### Growth mindset
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -42,7 +42,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
   
 
-# Education
+## Education
 
 **Makers Academy** (2018)
 
@@ -63,7 +63,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 
 
-# Professional Experience
+## Professional Experience
 
 **Cortex Capital** (2012-2017)
 
@@ -75,18 +75,18 @@ Sales-Trader.  Global equities & derivatives for institutional clients
 
 
 
-# Professional Qualifications
+## Professional Qualifications
 
 ● AutoCAD Level 1 & 2 (2014-5)  ● PCIAM Level 6 (2010-2011)  ● TEFL (2002-3)
 
  
 
-# Interests
+## Interests
 
 Outdoorsy stuff, theatre, non-fiction, music, arts (!opera), travel (!flying), cycling, swimming, taking photographs, design, architecture, vacantly gazing at bodies of water & cleaning stuff (esp. shoes)
  
 
-# Volunteer Experience
+## Volunteer Experience
 
 - Ambassador for the Royal Court Theatre, Sloane Square
 
