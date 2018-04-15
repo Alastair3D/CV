@@ -1,8 +1,8 @@
-# H1 Alastair Edmonds
+# Alastair Edmonds
 
-Projects | Skills | Education | Experience | Interests | LinkedIn | Medium Blog 
+[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interest) | [LinkedIn](https://www.linkedin.com/in/alastairedmonds/) | [Medium Blog](https://medium.com/@alastair3D)
 
-I am a full-stack junior developer, currently studying at Makers Academy & graduating July 2018. 
+I am a **full-stack junior developer**, currently studying at Makers Academy & graduating July 2018. 
 
 After 5 years trading equities & derivatives, I started a social finance consultancy – Cortex – to help address major social issues by structuring & implementing impact investments.  For the past 18 months, having studied AutoCAD at night school, I personally designed, demolished & then rebuilt a house in Peckham.  
 
@@ -12,9 +12,9 @@ Tech Skill Set: Ruby, Rails, JavaScript, jQuery, Sinatra, HTML, CSS, Node & Reac
 
 
 
-Projects
+# Projects
 
-For a complete list, see my GitHub Profile 
+For a complete list, see my [GitHub Profile](https://github.com/Alastair3D)
 
   Project	Description                             	Technologies                            
   P1     	A UX Research Tool for developers. Users can upload projects, generate surveys to send to testers and review response data.	Rails, RSpec/Capybara                   
@@ -23,9 +23,9 @@ For a complete list, see my GitHub Profile
 
 
 
-Skills
+# Skills
 
-Excellent communicator
+## Excellent communicator
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -33,7 +33,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-Growth mindset
+## Growth mindset
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -42,9 +42,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
   
 
-Education
+# Education
 
-Makers Academy (2018)
+**Makers Academy** (2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -52,45 +52,45 @@ Makers Academy (2018)
 - OOP, TDD, MVC, DDD, Agile/XP
 - Ruby, Rails, JavaScript, RSpec, Jasmine
 
-Edinburgh University (2003-2007)
+**Edinburgh University** (2003-2007)
 
 - MA Economics & Philosophy, 2.i
 - Captain of 1st XI & British Universities Cricket
 
-Marlborough College (1997-2002)
+ **Marlborough College** (1997-2002)
 
 ● Academic & Sporting Bursary  ● Head of House  ● Captain of 1st XI Football, 1stXI Hockey, 1st XI Cricket
 
 
 
-Professional Experience
+# Professional Experience
 
-Cortex Capital (2012-2017)
+**Cortex Capital** (2012-2017)
 
 Director.  Social finance consultancy - impact investments & program development
 
-Merrill Lynch (2008-2012)
+**Merrill Lynch** (2008-2012)
 
 Sales-Trader.  Global equities & derivatives for institutional clients
 
 
 
-Professional Qualifications
+# Professional Qualifications
 
-● AutoCAD Level 1 & 2 (2014-5)  ● PCIAM Level 6 – Investments (2010-2011)  ● TEFL (2002-3)
+● AutoCAD Level 1 & 2 (2014-5)  ● PCIAM Level 6 (2010-2011)  ● TEFL (2002-3)
 
  
 
-Interests
+# Interests
 
 Outdoorsy stuff, theatre, non-fiction, music, arts (!opera), travel (!flying), cycling, swimming, taking photographs, vacantly gazing at bodies of water & cleaning stuff (esp. shoes)
 
  
 
-Volunteer Experience
+# Volunteer Experience
 
-Ambassador for the Royal Court Theatre, Sloane Square
+- Ambassador for the Royal Court Theatre, Sloane Square
 
-Governor of Bigland Green Primary School, Tower Hamlets
+- Governor of Bigland Green Primary School, Tower Hamlets
 
-Advocate & Fundraiser for the mental health charity CALM
+- Advocate & Fundraiser for the mental health charity CALM
