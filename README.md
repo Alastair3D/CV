@@ -8,7 +8,7 @@ My ambition now is to forge a career in software design & engineering.  I am loo
 
 **Tech Skill Set**: Ruby, Rails, JavaScript, jQuery, Sinatra, HTML, CSS, Node & React [ahem]
 
-Github Profile: (github.com/Alastair3D) - Medium Blog: (https://medium.com/@alastair3D) 
+[Github Profile:](https://github.com/Alastair3D) - [Medium Blog:] (https://medium.com/@alastair3D) 
 
 
 **Soft Skills**
