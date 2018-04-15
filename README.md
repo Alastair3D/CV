@@ -1,6 +1,6 @@
 # Alastair Edmonds
 
-[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interest) | [LinkedIn](https://www.linkedin.com/in/alastairedmonds/) | [Medium Blog](https://medium.com/@alastair3D)
+[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interest) | [LinkedIn](https://www.linkedin.com/in/alastairedmonds/) | [Blog](https://medium.com/@alastair3D)
 
 I am a **full-stack junior developer**, currently studying at Makers Academy & graduating July 2018. 
 
@@ -8,7 +8,7 @@ After 5 years trading equities & derivatives, I started a social finance consult
 
 My ambition now is to forge a career in software design & engineering.  I am looking for opportunities in London to work on interesting projects in effective teams.  I subscribe to ABC values and would be well-suited for XYZ roles.
 
-Tech Skill Set: Ruby, Rails, JavaScript, jQuery, Sinatra, HTML, CSS, Node & React [ahem]
+**Tech Skill Set**: Ruby, Rails, JavaScript, jQuery, Sinatra, HTML, CSS, Node & React [ahem]
 
 
 
@@ -83,8 +83,7 @@ Sales-Trader.  Global equities & derivatives for institutional clients
 
 # Interests
 
-Outdoorsy stuff, theatre, non-fiction, music, arts (!opera), travel (!flying), cycling, swimming, taking photographs, vacantly gazing at bodies of water & cleaning stuff (esp. shoes)
-
+Outdoorsy stuff, theatre, non-fiction, music, arts (!opera), travel (!flying), cycling, swimming, taking photographs, design, architecture, vacantly gazing at bodies of water & cleaning stuff (esp. shoes)
  
 
 # Volunteer Experience
@@ -93,4 +92,4 @@ Outdoorsy stuff, theatre, non-fiction, music, arts (!opera), travel (!flying), c
 
 - Governor of Bigland Green Primary School, Tower Hamlets
 
-- Advocate & Fundraiser for the mental health charity CALM
+- Advocate & Fundraiser for the mental health charity [CALM](https://www.thecalmzone.net)
