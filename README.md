@@ -67,7 +67,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Cortex Capital** (2012-2017)
 
-Director.  Social finance consultancy - impact investments & program development
+Director.  Social finance consultancy - impact investments & development
 
 **Merrill Lynch** (2008-2012)
 
