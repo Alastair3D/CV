@@ -83,7 +83,7 @@ Sales-Trader.  Global equities & derivatives for institutional clients
 
 ## Interests
 
-Outdoorsy stuff, theatre, non-fiction, music, arts (!opera), travel (!flying), cycling, swimming, taking photographs, design, architecture, vacantly gazing at bodies of water & cleaning stuff (esp. shoes)
+Outdoorsy stuff, theatre, non-fiction, music, the arts (!opera), travel (!flying), cycling, swimming, taking photographs, design, architecture, vacantly gazing at bodies of water & cleaning stuff (esp. shoes)
  
 
 ## Volunteer Experience
