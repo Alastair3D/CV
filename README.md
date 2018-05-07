@@ -28,10 +28,10 @@ My ambition now is to forge a career in software design & engineering.  I am loo
 
 ### Excellent communicator
 
-Managing my own ethical finance consultancy required consistently high standards of effective communication. Before this, during my time at Merrill Lynch, I wrote and distributed daily newsletters to my clients including market commentary and data analysis.  I also chaired the morning meeting of 10-15 sales-traders in London and New York. After a number of leadership roles at school, being an effective communicator was honed further when I became a qualified TEFL teach at 19.  Frequently in my career, I have thrived when making highly technical concepts accessible.  Whether written or verbal, in pairs or as a group, listening and communicating efficiently is at the core of our journey at Makers Academy & I look forward to bringing these skills to my next role.
+Managing Cortex required consistently high standards of communication. Before this, during my time at Merrill Lynch, I wrote and distributed daily newsletters to my clients including market commentary and data analysis.  I also chaired the morning meeting of 10-15 sales-traders in London and 15-20 in New York. After a number of leadership roles at school, being an effective communicator was honed further when I became a qualified TEFL teacher at 19.  Frequently in my career, I have thrived when making highly technical concepts accessible.  Whether written or verbal, in pairs or as a group, listening and communicating efficiently is at the core of our journey at Makers Academy & I look forward to bringing these skills to my next role.
 
-- Qualified Teacher
-- Leadership Roles
+- Qualified teacher
+- Leadership roles
 - Previously represented by literary agency, Curtis Brown
 - Lord Mayor's Award for work in the community
 
@@ -48,8 +48,7 @@ One of the things I really love about programming is tight teams, pairing - grow
 
 ### Growth mindset
 
-At Makers we have to pick up new concepts quickly. A precursor to this is the willingness to grow and embrace challenges. At times, it can feel overwhelming and we are fortunate to be trained with the tools to survive the emotional strains of programming in lockstep with our technical growth. This emotional curriculum should not be underestimated.  I am proud to have more mastery of my emotions and consider these skills as very much part of my growth mindset - empathy, listening, teaching, effective pair programming, team work and shared learning.  Any organisation hiring Makers graduates will benefit from this in turn.  
-
+At Makers we have to pick up new concepts quickly. A precursor to this is the willingness to grow and embrace challenges. At times, it can feel overwhelming but we are fortunate to be trained with tools to effectively manage the challenges of programming. The emotional curriculum should not be underestimated.  I am proud to have more mastery of my emotions and consider these skills as very much part of my growth mindset - empathy, listening, teaching, strong pair programming, team work and shared learning.  Any organisation hiring Makers graduates will likely benefit from this thinking.  
 
 #### Additional skills
 
@@ -61,11 +60,9 @@ At Makers we have to pick up new concepts quickly. A precursor to this is the wi
 
 **Makers Academy** (2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-- OOP, TDD, MVC, DDD, Agile/XP
-- Ruby, Rails, JavaScript, RSpec, Jasmine
+- Curious and passionate about code
+- Fast, independent learner
+- Great collaborator
 
 **Edinburgh University** (2003-2007)
 
@@ -74,8 +71,7 @@ At Makers we have to pick up new concepts quickly. A precursor to this is the wi
 
  **Marlborough College** (1997-2002)
 
-● Academic & Sporting Bursary  ● Head of House  ● Captain of 1st XI Football, 1stXI Hockey, 1st XI Cricket
-
+● Academic & Sporting Bursary  ● Head of House  ● Captain of 1st XI Football, 1st XI Hockey, 1st XI Cricket
 
 
 ## Experience
