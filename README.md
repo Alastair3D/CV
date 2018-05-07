@@ -64,7 +64,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 
 
-## Professional Experience
+## Experience
 
 **Cortex Capital** (2012-2017)
 
