@@ -109,6 +109,6 @@ Outdoorsy stuff, theatre, non-fiction, music, the arts (!opera), travel (!flying
 
 - Governor of Bigland Green primary school, Tower Hamlets
 
-- Cycled (on a tri-tandem called Cerberus) from Lands End to John O'Groats raising over £32k for the Samantha Dickson Research Trust (Brain tumours in children)
+- Cycled - on a tri-tandem called Cerberus, the frame of which was built in 1908 - from Lands End to John O'Groats raising over £32k for the Samantha Dickson Research Trust (Brain tumours in children)
 
 - Advocate & fundraiser for the mental health charity [CALM](https://www.thecalmzone.net)
