@@ -40,12 +40,12 @@ After a number of leadership roles at school, being an effective communicator wa
 
 ### Team Player
 
-One of the things I really love about programming is pairing - growing and solving problems together.  Above all, I would like to think that I can fit well within a group and contribute to an enjoyable, healthy, positive working environment.  I have the ability to find what is exciting in a project and bring this enthusiasm to the whole team.  
+One of the things I really love about programming is tight teams - pairing and solving problems together.  Above all, I would like to think that I can fit well within a group and contribute to an enjoyable, healthy, positive working environment.  I have the ability to find what is exciting in a project and bring this enthusiasm to the whole team.  
 
 - Most stickers for 'Team Player'
 - Head of House, Captain of Football ('Soccer'), Captain of British Universities Cricket
 - Duke of Edinburgh Gold Award
-- While at Makers Academy, I've maintained a blog alongside my studies, mentored two juniors & helped shape future iterations of the course.
+- Mentored two juniors & helped shape future iterations of the course
 
 
 ### Growth mindset
@@ -95,7 +95,6 @@ Sales-Trader.  Global equities & derivatives for institutional clients
 ● AutoCAD Level 1 & 2 (2014-5)  ● PCIAM Level 6 (2010-2011)  ● TEFL (2002-3)
 
 
-
 ## Interests
 
 Outdoorsy stuff, theatre, non-fiction, music, the arts (!opera), travel (!flying), cycling, swimming, taking photographs, design, architecture, vacantly gazing at bodies of water & cleaning stuff (especially shoes).
@@ -105,6 +104,6 @@ Outdoorsy stuff, theatre, non-fiction, music, the arts (!opera), travel (!flying
 
 - Ambassador for the Royal Court Theatre, Sloane Square
 
-- Governor of Bigland Green Primary School, Tower Hamlets
+- Governor of Bigland Green primary school, Tower Hamlets
 
-- Advocate & Fundraiser for the mental health charity [CALM](https://www.thecalmzone.net)
+- Advocate & fundraiser for the mental health charity [CALM](https://www.thecalmzone.net)
