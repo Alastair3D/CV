@@ -1,8 +1,8 @@
 ## Alastair Edmonds
 
-[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interest) | [LinkedIn](https://www.linkedin.com/in/alastairedmonds/) | [Blog](https://medium.com/@alastair3D)
+[Projects](#projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interest) | [LinkedIn](https://www.linkedin.com/in/alastairedmonds/) | [Blog](https://medium.com/@alastair3D)
 
-I am a **full-stack junior developer**, currently studying at Makers Academy & graduating July 2018. 
+I am a **full-stack junior developer**, currently studying at Makers Academy & graduating July 2018.
 
 After 5 years trading equities & derivatives, I started a social finance consultancy – Cortex – to help address major social issues by structuring & implementing impact investments.  For the past 18 months, having studied AutoCAD at night school, I personally designed, demolished & then rebuilt a house in Peckham.  
 
@@ -40,7 +40,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-  
+
 
 ## Education
 
@@ -79,12 +79,12 @@ Sales-Trader.  Global equities & derivatives for institutional clients
 
 ● AutoCAD Level 1 & 2 (2014-5)  ● PCIAM Level 6 (2010-2011)  ● TEFL (2002-3)
 
- 
+
 
 ## Interests
 
 Outdoorsy stuff, theatre, non-fiction, music, the arts (!opera), travel (!flying), cycling, swimming, taking photographs, design, architecture, vacantly gazing at bodies of water & cleaning stuff (esp. shoes)
- 
+
 
 ## Volunteer Experience
 
