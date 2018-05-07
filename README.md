@@ -1,6 +1,7 @@
 ## Alastair Edmonds
 
-[Projects](#projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interest) | [LinkedIn](https://www.linkedin.com/in/alastairedmonds/) | [Blog](https://medium.com/@alastair3D)
+
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/alastairedmonds/) | [Blog](https://medium.com/@alastair3D)
 
 I am a **full-stack junior developer**, currently studying at Makers Academy & graduating July 2018.
 
