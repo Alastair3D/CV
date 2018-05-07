@@ -7,7 +7,7 @@ I am a **full-stack junior developer**, currently studying at Makers Academy & g
 
 After 5 years trading equities & derivatives, I started a social finance consultancy – Cortex – to help address major social issues by structuring & implementing impact investments.  For the past 18 months, having studied AutoCAD at night school, I personally designed, demolished & then rebuilt a house in Peckham.  
 
-My ambition now is to forge a career in software design & engineering.  I am looking for opportunities in London or the US to work on interesting projects in effective teams.  I subscribe to ABC values and would be well-suited for XYZ roles.
+My ambition now is to forge a career in software design & engineering.  I am looking for opportunities in London or the US to work on interesting projects in effective teams.  
 
 **Tech Skill Set**: Ruby, JavaScript, jQuery, Sinatra, HTML, CSS, Node & React
 
@@ -38,7 +38,7 @@ Managing my own ethical finance consultancy required consistently high standards
 
 ### Team Player
 
-One of the things I love about programming is tight teams, pairing and growing together.  Above all, I would like to fit well within a group and contribute to an enjoyable, healthy, positive working environment.  I have the ability to find what is exciting in a project and bring this enthusiasm to the whole team.  
+One of the things I really love about programming is tight teams, pairing - growing and solving problems together.  Above all, I would like to think that I can fit well within a group and contribute to an enjoyable, healthy, positive working environment.  I have the ability to find what is exciting in a project and bring this enthusiasm to the whole team.  
 
 - Most stickers for 'Team Player'
 - Head of House, Captain of Football ('Soccer'), Captain of British Universities Cricket
@@ -48,11 +48,13 @@ One of the things I love about programming is tight teams, pairing and growing t
 
 ### Growth mindset
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+At Makers we have to pick up new concepts quickly. A precursor to this is the willingness to grow and embrace challenges. At times, it can feel overwhelming and we are fortunate to be trained with the tools to survive the emotional strains of programming in lockstep with our technical growth. This emotional curriculum should not be underestimated.  I am proud to have more mastery of my emotions and consider these skills as very much part of my growth mindset - empathy, listening, teaching, effective pair programming, team work and shared learning.  Any organisation hiring Makers graduates will benefit from this in turn.  
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
+
+#### Additional skills
+
+ - Methodologies : Agile, XP, Test Driven Development
+ - Foreign languages : French, Spanish  
 
 
 ## Education
