@@ -28,7 +28,9 @@ My ambition now is to forge a career in software design & engineering.  I am loo
 
 ### Excellent communicator
 
-Managing Cortex required consistently high standards of communication. Before this, during my time at Merrill Lynch, I wrote and distributed daily newsletters to my clients including market commentary and data analysis.  I also chaired the morning meeting of 10-15 sales-traders in London and 15-20 in New York. After a number of leadership roles at school, being an effective communicator was honed further when I became a qualified TEFL teacher at 19.  Frequently in my career, I have thrived when making highly technical concepts accessible.  Whether written or verbal, in pairs or as a group, listening and communicating efficiently is at the core of our journey at Makers Academy & I look forward to bringing these skills to my next role.
+Managing Cortex required consistently high standards of communication. Before this, during my time at Merrill Lynch, I wrote and distributed daily newsletters to my clients including market commentary and data analysis.  I also chaired the morning meeting of 10-15 sales-traders in London and 15-20 in New York.
+
+After a number of leadership roles at school, being an effective communicator was honed further when I became a qualified TEFL teacher at 19.  Frequently in my career, I have thrived when making highly technical concepts accessible.  Whether written or verbal, in pairs or as a group, listening and communicating efficiently is at the core of our journey at Makers Academy & I look forward to bringing these skills to my next role.
 
 - Qualified teacher
 - Leadership roles
@@ -38,7 +40,7 @@ Managing Cortex required consistently high standards of communication. Before th
 
 ### Team Player
 
-One of the things I really love about programming is tight teams, pairing - growing and solving problems together.  Above all, I would like to think that I can fit well within a group and contribute to an enjoyable, healthy, positive working environment.  I have the ability to find what is exciting in a project and bring this enthusiasm to the whole team.  
+One of the things I really love about programming is pairing - growing and solving problems together.  Above all, I would like to think that I can fit well within a group and contribute to an enjoyable, healthy, positive working environment.  I have the ability to find what is exciting in a project and bring this enthusiasm to the whole team.  
 
 - Most stickers for 'Team Player'
 - Head of House, Captain of Football ('Soccer'), Captain of British Universities Cricket
@@ -48,7 +50,9 @@ One of the things I really love about programming is tight teams, pairing - grow
 
 ### Growth mindset
 
-At Makers we have to pick up new concepts quickly. A precursor to this is the willingness to grow and embrace challenges. At times, it can feel overwhelming but we are fortunate to be trained with tools to effectively manage the challenges of programming. The emotional curriculum should not be underestimated.  I am proud to have more mastery of my emotions and consider these skills as very much part of my growth mindset - empathy, listening, teaching, strong pair programming, team work and shared learning.  Any organisation hiring Makers graduates will likely benefit from this thinking.  
+At Makers we have to pick up new concepts quickly. A precursor to this is the willingness to grow and embrace challenges. At times, it can feel overwhelming but we are fortunate to be trained with tools to effectively manage the challenges of programming.
+
+The emotional curriculum should not be underestimated.  I am proud to have more mastery of my emotions and consider these skills as very much part of my growth mindset - empathy, listening, teaching, strong pair programming, team work and shared learning.  Any organisation hiring Makers graduates will likely benefit from this thinking.  
 
 #### Additional skills
 
@@ -94,7 +98,7 @@ Sales-Trader.  Global equities & derivatives for institutional clients
 
 ## Interests
 
-Outdoorsy stuff, theatre, non-fiction, music, the arts (!opera), travel (!flying), cycling, swimming, taking photographs, design, architecture, vacantly gazing at bodies of water & cleaning stuff (especially shoes)
+Outdoorsy stuff, theatre, non-fiction, music, the arts (!opera), travel (!flying), cycling, swimming, taking photographs, design, architecture, vacantly gazing at bodies of water & cleaning stuff (especially shoes).
 
 
 ## Volunteer Experience
