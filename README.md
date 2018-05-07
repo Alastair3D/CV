@@ -54,7 +54,6 @@ The emotional curriculum should not be underestimated.  I am proud to have more 
 
 - Lord Mayor's Award for work in the community
 - Duke of Edinburgh Gold Award
-- Track record of adding value and seeking opportunities for growth
 
 
 #### Additional skills
