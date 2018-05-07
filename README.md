@@ -48,9 +48,9 @@ One of the things I really love about programming is tight teams - pairing and s
 
 ### Growth mindset
 
-At Makers we have to pick up new concepts quickly. A precursor to this is the willingness to grow and embrace challenges. At times, it can feel overwhelming but we are fortunate to be trained with tools to effectively manage the challenges of programming.
+At Makers we have to pick up new concepts quickly. A precursor to this is the willingness to grow and embrace challenges. At times, it can feel overwhelming but we are fortunate to be trained with tools to manage these aspects of development.
 
-The emotional curriculum should not be underestimated.  I am proud to have more mastery of my emotions and consider these skills as very much part of my growth mindset - empathy, listening, teaching, strong pair programming, team work and shared learning.  Any organisation hiring Makers graduates will likely benefit from this thinking.  
+The emotional curriculum should not be underestimated.  I am proud to have more mastery of my emotions and consider these skills as very much part of my growth mindset - empathy, listening, teaching, strong pair programming, team work & shared learning.  Any organisation hiring MA graduates will likely benefit from this thinking.  
 
 - Lord Mayor's Award for work in the community
 - Duke of Edinburgh Gold Award
@@ -60,7 +60,7 @@ The emotional curriculum should not be underestimated.  I am proud to have more 
 #### Additional skills
 
  - Methodologies : Agile, XP, Test Driven Development
- - Foreign languages : French, Spanish  
+ - Foreign languages : French, Spanish
 
 
 ## Education
