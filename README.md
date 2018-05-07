@@ -48,7 +48,7 @@ One of the things I really love about programming is tight teams - pairing and s
 
 ### Growth mindset
 
-At Makers we have to pick up new concepts quickly. A precursor to this is the willingness to grow and embrace challenges. At times, it can feel overwhelming but we are fortunate to be trained with tools to manage these aspects of development.
+At Makers we have to pick up new concepts quickly. A precursor to this is the willingness to grow and embrace challenges. At times, it can feel overwhelming but we are fortunate to be trained with tools and methodologies to effectively manage these aspects of development and maintain wellbeing, individually and as a group.
 
 The emotional curriculum should not be underestimated.  I am proud to have more mastery of my emotions and consider these skills as very much part of my growth mindset - empathy, listening, teaching, strong pair programming, team work & shared learning.  Any organisation hiring MA graduates will likely benefit from this thinking.  
 
