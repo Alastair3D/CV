@@ -5,9 +5,9 @@
 
 I am a **full-stack junior developer**, currently studying at Makers Academy & graduating July 2018.
 
-After 5 years trading equities & derivatives, I started a social finance consultancy – Cortex – to help address major social issues by structuring & implementing impact investments.  Before the 18 months prior to Makers, having studied AutoCAD at night school, I personally designed, demolished & then rebuilt a house in Peckham.  
+After 5 years trading equities & derivatives, I started a social finance consultancy – Cortex – to help address major social issues by structuring & implementing impact investments.  Before Makers, having studied AutoCAD at night school, I spent 18 months personally designing, demolishing & then rebuilding a house in Peckham.  
 
-My ambition now is to forge a career in software design & engineering.  I am looking for opportunities in London or the US to work on interesting projects in effective teams.  
+My ambition now is to forge a career in software design & engineering.  I am looking for opportunities in London or the US to work on interesting projects in effective teams.
 
 **Tech Skill Set**: Ruby, JavaScript, jQuery, Sinatra, HTML, CSS, Node & React
 
