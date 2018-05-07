@@ -73,7 +73,7 @@ The emotional curriculum should not be underestimated.  I am proud to have more 
 
 **Edinburgh University** (2003-2007)
 
-- MA Economics & Philosophy, 2.i
+- MA Economics & Philosophy, Upper Second
 - Captain of 1st XI & British Universities Cricket
 
  **Marlborough College** (1997-2002)
