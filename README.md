@@ -34,17 +34,15 @@ After a number of leadership roles at school, being an effective communicator wa
 
 - Qualified teacher
 - Leadership roles
-- Previously represented by literary agency, Curtis Brown
-- Lord Mayor's Award for work in the community
+- Represented by literary agency, Curtis Brown
 
 
 ### Team Player
 
 One of the things I really love about programming is tight teams - pairing and solving problems together.  Above all, I would like to think that I can fit well within a group and contribute to an enjoyable, healthy, positive working environment.  I have the ability to find what is exciting in a project and bring this enthusiasm to the whole team.  
 
-- Most stickers for 'Team Player'
-- Head of House, Captain of Football ('Soccer'), Captain of British Universities Cricket
-- Duke of Edinburgh Gold Award
+- Lots of 'Team Player' stickers
+- Head of House, Captain of Football, Captain of British Universities Cricket
 - Mentored two juniors & helped shape future iterations of the course
 
 
@@ -53,6 +51,11 @@ One of the things I really love about programming is tight teams - pairing and s
 At Makers we have to pick up new concepts quickly. A precursor to this is the willingness to grow and embrace challenges. At times, it can feel overwhelming but we are fortunate to be trained with tools to effectively manage the challenges of programming.
 
 The emotional curriculum should not be underestimated.  I am proud to have more mastery of my emotions and consider these skills as very much part of my growth mindset - empathy, listening, teaching, strong pair programming, team work and shared learning.  Any organisation hiring Makers graduates will likely benefit from this thinking.  
+
+- Lord Mayor's Award for work in the community
+- Duke of Edinburgh Gold Award
+- Track record of adding value and seeking opportunities for growth
+
 
 #### Additional skills
 
@@ -105,5 +108,7 @@ Outdoorsy stuff, theatre, non-fiction, music, the arts (!opera), travel (!flying
 - Ambassador for the Royal Court Theatre, Sloane Square
 
 - Governor of Bigland Green primary school, Tower Hamlets
+
+- Cycled (on a tri-tandem) from Lands End to John O'Groats raising over £32k for the Samantha Dickson Research Trust (Brain tumours in children)
 
 - Advocate & fundraiser for the mental health charity [CALM](https://www.thecalmzone.net)
