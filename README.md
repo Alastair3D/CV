@@ -19,8 +19,8 @@ My ambition now is to forge a career in software design & engineering.  I am loo
 
   | Project   | Description | Technologies |
   |---        |---         |---           |
-  | [UXBuddy](https://www.github.com/uxbuddy/uxbuddy) | A UX Research Tool for developers. Users can upload projects, generate surveys to send to testers and review response data. | Rails, RSpec/Capybara |
-  |[Atomodoro](https://www.github.com/lsewilson/atomodoro)| A pomodoro timer Atom package. Users are encouraged to take breaks at regular intervals by a pomodoro timer running in the background of an Atom session. During breaks, users' keyboards are disabled. | Coffeescript, Jasmine|
+  | [UXBuddy](https://www.github.com/uxbuddy/uxbuddy) | A UX Research Tool for developers. Users can upload projects, generate surveys and review response data. | Rails, RSpec/Capybara |
+  |[Atomodoro](https://www.github.com/lsewilson/atomodoro)| A pomodoro timer Atom package. During breaks, users' keyboards are disabled. | Coffeescript, Jasmine|
   | [MakersBnB](https://github.com/lsewilson/makers-bnb) | An AirBnB clone for which we taught ourselves Node in a week. | Node.js, Express, Pug, Sequelize, Mocha, Zombie |  
 
 
@@ -108,6 +108,6 @@ Outdoorsy stuff, theatre, non-fiction, music, the arts (!opera), travel (!flying
 
 - Governor of Bigland Green primary school, Tower Hamlets
 
-- Cycled from Lands End to John O'Groats, as part of a three-man team, in memory of a friend who died of a brain tumour at the age of 16.  Over 1,100 miles (in a very not-straight line) over three weeks on a 'twin-tandem' called Cerberus, the frame of which was built in 1908.  We raised over £32k for the Samantha Dickson Research Trust.  
+- Cycled from Lands End to John O'Groats, as part of a three-man team, in memory of a friend who died of a brain tumour at the age of 16.  Over 1,100 miles (in a very not-straight line) on a 'twin-tandem' called Cerberus, the frame of which was built in 1908.  We raised over £32k for the Samantha Dickson Research Trust.  
 
 - Advocate & fundraiser for the mental health charity [CALM](https://www.thecalmzone.net)
